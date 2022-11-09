@@ -1,7 +1,9 @@
 <!-- Your title -->
 ## Hi There, I'm Renayura! Welcome to My GitHub profile. 👋 Nice to meet you.
 ---
-<img align="center" src="https://mirrorbot.filoindex.workers.dev/0://IMG_20220911_044236_389.jpg" width="500"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif" alt="Welcome" />
+</p>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Renayura&label=Profile%20views&color=0e75b6&style=flat" alt="Mikazuuu07" /> </p>
