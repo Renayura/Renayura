@@ -16,8 +16,6 @@
 **Talking about Personal Stuffs:**
 
 - 🌍 Country 🇮🇩
-- 🌐 [About My Project](https://t.me/HimemoriCH)
-- 📫 [Telegram](https://t.me/Himemori)
 - 🎼 [Break Break Break!](https://youtu.be/DdpzFW5mCT0)
 - 🎮 POU
 - 💻 Windows & Arch Superramcy
@@ -28,7 +26,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renayura&show_icons=true&theme=graywhite" alt="Renayura Github Stats">
   <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renayura&layout=compact&show_icons=true&hide_border=false)](https://github.com/Renayura)
 
 ---
