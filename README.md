@@ -23,8 +23,4 @@
 	
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renayura&show_icons=true&theme=graywhite" alt="Renayura Github Stats">
-  <br><br>
-
 ---
