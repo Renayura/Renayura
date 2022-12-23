@@ -15,7 +15,7 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 🌍 Country 🇮🇩
+- 🌍 Country 🇯🇵
 - 🎼 [Break Break Break!](https://youtu.be/DdpzFW5mCT0)
 - 🎮 POU
 - 💻 Windows & Arch Superramcy
